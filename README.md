@@ -16,8 +16,8 @@ This project was developed as part of an **assessment in the Data Engineering Bo
 
 ### 1. Clone the Repository
 ```bash
-git clone <repo_url>
-cd <repo_name>
+git clone https://github.com/DanielsStulpe/bootcamp_rally_manager
+cd bootcamp_rally_manager
 ```
 
 ### 2. Create Virtual Environment (optional but recommended)
